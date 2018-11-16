@@ -1,3 +1,5 @@
+print("ex 3.34")
+
 def pay(hourly_wage,work_hour):
     if work_hour<=40:
         pay= hourly_wage*work_hour
